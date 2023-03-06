@@ -51,17 +51,6 @@ function Projects() {
               demoLink='https://alert.rip/'
             />
           </Col>
-
-          <Col md={4} className='project-card'>
-            <ProjectCard
-              imgPath={adit}
-              isBlog={false}
-              title='Adit'
-              description='We Declare is an opportunity to engage with the essential questions posed by 1776, created in collaboration with our artists and educators, with the hopes that we engage together in a dialogue around what matters to us in the United States of America.'
-              ghLink='https://github.com/loveagile/adit-nest'
-              demoLink='https://www.wedeclare.com/'
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
